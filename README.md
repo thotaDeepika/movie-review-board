@@ -1,2 +1,2 @@
-#Full-Stack Collaboration Project
+# Full-Stack Collaboration Project
 A simple web application built collaboratively.
